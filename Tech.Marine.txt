@@ -1,0 +1,1215 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["TargetPartName"] = "AR Display",
+						["ClassName"] = "event",
+						["Invert"] = true,
+						["TargetPartUID"] = "2944818163",
+						["Event"] = "weapon_class",
+						["UniqueID"] = "3460247471",
+						["Arguments"] = "halo5swepar",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Arguments"] = "mouse_right",
+								["UniqueID"] = "63632315",
+								["Event"] = "button",
+								["ClassName"] = "event",
+								["EditorExpand"] = true,
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Arguments"] = "1@@0",
+								["UniqueID"] = "3354987208",
+								["Event"] = "ammo",
+								["Operator"] = "equal or below",
+								["ClassName"] = "event",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["StartColor"] = Vector(255, 93, 0),
+						["UniqueID"] = "351416538",
+						["Bend"] = 1,
+						["ClassName"] = "beam",
+						["Width"] = 4.4,
+						["Material"] = "trails/laser",
+						["EndColor"] = Vector(0, 0, 0),
+						["EditorExpand"] = true,
+						["EndPointUID"] = "2859951820",
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(0, 0, 180),
+								["UniqueID"] = "2182121846",
+								["EditorExpand"] = true,
+								["Size"] = 0.55,
+								["Bone"] = "right hand",
+								["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Arguments"] = "mouse_right",
+								["UniqueID"] = "270779562",
+								["Event"] = "button",
+								["ClassName"] = "event",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(0, 0, -20.299999237061),
+						["Angles"] = Angle(0, 180, 0),
+						["UniqueID"] = "1003292525",
+						["Size"] = 0.5,
+						["EditorExpand"] = true,
+						["Bone"] = "right hand",
+						["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+						["ClassName"] = "model",
+						["UniqueID"] = "2678982010",
+						["Size"] = 0.375,
+						["EditorExpand"] = true,
+						["Bone"] = "right hand",
+						["Name"] = "AR Display",
+						["Angles"] = Angle(0, 0, 180),
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "2203412732",
+						["Event"] = "weapon_class",
+						["Arguments"] = "halo5swepar",
+						["Invert"] = true,
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "models/cires992/props2/holomod_03.mdl",
+						["AngleOffset"] = Angle(18.700000762939, 0, 0),
+						["UniqueID"] = "1691632580",
+						["Size"] = 0.35,
+						["EditorExpand"] = true,
+						["Position"] = Vector(3, 0, 29.5),
+						["Translucent"] = true,
+						["ClassName"] = "model",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "entity",
+						["HideEntity"] = true,
+						["UniqueID"] = "3735527250",
+					},
+				},
+				[8] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Arguments"] = "mouse_right",
+								["UniqueID"] = "1448585147",
+								["Event"] = "button",
+								["ClassName"] = "event",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "1534531928",
+						["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+						["Size"] = 0.3,
+						["Bone"] = "right hand",
+						["Name"] = "AR Display",
+						["EditorExpand"] = true,
+					},
+				},
+				[9] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Arguments"] = "1@@0",
+								["UniqueID"] = "2571584824",
+								["Event"] = "ammo",
+								["Operator"] = "equal or below",
+								["ClassName"] = "event",
+								["EditorExpand"] = true,
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Arguments"] = "mouse_right",
+								["Invert"] = true,
+								["Event"] = "button",
+								["UniqueID"] = "294742012",
+								["EditorExpand"] = true,
+								["ClassName"] = "event",
+							},
+						},
+					},
+					["self"] = {
+						["StartColor"] = Vector(255, 93, 0),
+						["UniqueID"] = "114875405",
+						["Bend"] = 0,
+						["ClassName"] = "beam",
+						["Width"] = 1.1,
+						["Material"] = "trails/laser",
+						["EndColor"] = Vector(0, 0, 0),
+						["EditorExpand"] = true,
+						["EndPointUID"] = "1313760180",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "2944818163",
+				["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+				["ClassName"] = "model",
+				["EditorExpand"] = true,
+				["Name"] = "AR Display",
+				["Position"] = Vector(0.39208984375, 0.62900000810623, 0.99609375),
+				["Angles"] = Angle(57.930858612061, 121.82800292969, -55.068473815918),
+				["Material"] = "models/props_halloween/halloween_demoeye_glass",
+				["Size"] = 0.375,
+				["PositionOffset"] = Vector(0.69999998807907, -0.10000000149012, -4.5999999046326),
+				["Brightness"] = 0,
+				["Bone"] = "muzz",
+				["Translucent"] = true,
+				["AngleOffset"] = Angle(-8.8000001907349, 0, -1.2999999523163),
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(0, 0, 180),
+								["UniqueID"] = "1546906543",
+								["Size"] = 0.275,
+								["Bone"] = "right hand",
+								["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "20456056",
+						["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+						["AngleOffset"] = Angle(0, -129.89999389648, 0),
+						["Size"] = 0.275,
+						["ClassName"] = "model",
+						["Position"] = Vector(0, 0, -6.1279296875),
+						["Bone"] = "right hand",
+						["Translucent"] = true,
+						["EditorExpand"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "4191785230",
+						["Event"] = "weapon_class",
+						["Arguments"] = "h3_magnum_swep",
+						["Invert"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "2672176336",
+				["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+				["Name"] = "Pistol Display",
+				["Position"] = Vector(10.074999809265, 9.3900003433228, 1.6109999418259),
+				["EditorExpand"] = true,
+				["Angles"] = Angle(-8.8999996185303, 34.700000762939, 9.6000003814697),
+				["Size"] = 0.1875,
+				["PositionOffset"] = Vector(7.5, -12.5, -0.60000002384186),
+				["ClassName"] = "model",
+				["Bone"] = "right forearm",
+				["Translucent"] = true,
+				["AngleOffset"] = Angle(150.69999694824, -101.5, 89.099998474121),
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "2859951820",
+				["Position"] = Vector(0.42057889699936, 1.54381275177, 1.9989620447159),
+				["Angles"] = Angle(1, 0, 0),
+				["Size"] = 0.01,
+				["Material"] = "models/effects/pyro/pilotlight_cloak",
+				["ClassName"] = "model",
+				["Bone"] = "hitpos",
+				["Model"] = "models/pac/default.mdl",
+				["EditorExpand"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 2,
+						["VelocityRoughness"] = 0,
+						["UniqueID"] = "599031586",
+						["Axis"] = "x",
+						["Min"] = -2,
+						["VariableName"] = "Position",
+						["Offset"] = 0.7,
+						["InputMultiplier"] = 5,
+						["Function"] = "cos",
+						["ClassName"] = "proxy",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 2,
+						["VelocityRoughness"] = 0,
+						["UniqueID"] = "3856231979",
+						["Axis"] = "y",
+						["Min"] = -2,
+						["VariableName"] = "Position",
+						["Offset"] = 0.2,
+						["InputMultiplier"] = 5,
+						["Function"] = "cos",
+						["ClassName"] = "proxy",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 2,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "1866855606",
+						["VelocityRoughness"] = 0,
+						["Axis"] = "z",
+						["InputMultiplier"] = 5,
+						["Min"] = -2,
+						["VariableName"] = "Position",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Angles"] = Angle(1, 0, 0),
+				["UniqueID"] = "1536822799",
+				["Size"] = 0.01,
+				["Position"] = Vector(-1.6909724473953, 1.9938766956329, -1.5932953357697),
+				["Bone"] = "hitpos",
+				["Model"] = "models/pac/default.mdl",
+				["Material"] = "models/effects/pyro/pilotlight_cloak",
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["TargetPartName"] = "AR Display",
+						["ClassName"] = "event",
+						["Invert"] = true,
+						["TargetPartUID"] = "1963611749",
+						["Event"] = "weapon_class",
+						["UniqueID"] = "217774166",
+						["Arguments"] = "halo5swepbattlerifle",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Arguments"] = "mouse_right",
+								["Invert"] = true,
+								["Event"] = "button",
+								["UniqueID"] = "2193595226",
+								["EditorExpand"] = true,
+								["ClassName"] = "event",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Arguments"] = "1@@0",
+								["UniqueID"] = "1265857030",
+								["Event"] = "ammo",
+								["Operator"] = "equal or below",
+								["ClassName"] = "event",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["StartColor"] = Vector(255, 93, 0),
+						["UniqueID"] = "299996398",
+						["Bend"] = 0,
+						["ClassName"] = "beam",
+						["Width"] = 1.1,
+						["Material"] = "trails/laser",
+						["EndColor"] = Vector(0, 0, 0),
+						["EditorExpand"] = true,
+						["EndPointUID"] = "1536822799",
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Arguments"] = "mouse_right",
+								["UniqueID"] = "2457977496",
+								["Event"] = "button",
+								["ClassName"] = "event",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "3655577175",
+						["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+						["Size"] = 0.3,
+						["Bone"] = "right hand",
+						["Name"] = "AR Display",
+						["EditorExpand"] = true,
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "485279657",
+						["Event"] = "weapon_class",
+						["Arguments"] = "halo5swepbattlerifle",
+						["Invert"] = true,
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+						["ClassName"] = "model",
+						["UniqueID"] = "1646943589",
+						["Size"] = 0.375,
+						["EditorExpand"] = true,
+						["Bone"] = "right hand",
+						["Name"] = "AR Display",
+						["Angles"] = Angle(0, 0, 180),
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "entity",
+						["HideEntity"] = true,
+						["UniqueID"] = "60443233",
+					},
+				},
+				[7] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Arguments"] = "mouse_right",
+								["UniqueID"] = "982689685",
+								["Event"] = "button",
+								["ClassName"] = "event",
+								["EditorExpand"] = true,
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(0, 0, 180),
+								["UniqueID"] = "2373363652",
+								["EditorExpand"] = true,
+								["Size"] = 0.55,
+								["Bone"] = "right hand",
+								["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(0, 0, -20.299999237061),
+						["Angles"] = Angle(0, 180, 0),
+						["UniqueID"] = "4200407331",
+						["Size"] = 0.5,
+						["EditorExpand"] = true,
+						["Bone"] = "right hand",
+						["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "1963611749",
+				["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+				["ClassName"] = "model",
+				["EditorExpand"] = true,
+				["Name"] = "AR Display",
+				["Position"] = Vector(-8.431640625, -4.2822265625, -3.3388671875),
+				["Angles"] = Angle(-10.89999961853, 83, -63.900001525879),
+				["Material"] = "models/props_halloween/halloween_demoeye_glass",
+				["Size"] = 0.375,
+				["PositionOffset"] = Vector(0.69999998807907, -0.10000000149012, -4.5999999046326),
+				["Brightness"] = 0,
+				["Bone"] = " 1",
+				["Translucent"] = true,
+				["AngleOffset"] = Angle(-8.8000001907349, 0, -1.2999999523163),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["ClassName"] = "group",
+		["UniqueID"] = "1973659430",
+		["OwnerName"] = "viewmodel",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "models/cires992/props2/holomod_03.mdl",
+						["AngleOffset"] = Angle(0, 25.700000762939, -90),
+						["UniqueID"] = "2774854328",
+						["Size"] = 0.225,
+						["EditorExpand"] = true,
+						["Position"] = Vector(1.5, -0.89999997615814, 2.5999999046326),
+						["Translucent"] = true,
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(90, -0.00085428630700335, -0.00068342906888574),
+				["Position"] = Vector(3.6340000629425, -3.8729999065399, 0.29899999499321),
+				["ClassName"] = "model",
+				["Model"] = "models/operator_google.mdl",
+				["UniqueID"] = "3726436947",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "entity",
+				["UniqueID"] = "3874307917",
+				["Model"] = "models/player/barney.mdl",
+				["Name"] = "[Ӻ.ɧ] Kingsluger",
+				["HideEntity"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-9.6476425824221e-005, 89.625999450684, 5.634906119667e-005),
+						["ClassName"] = "clip",
+						["UniqueID"] = "501687740",
+						["Position"] = Vector(-0.02734375, -1.12109375, -0.0009765625),
+					},
+				},
+			},
+			["self"] = {
+				["Position"] = Vector(19.660999298096, -0.93400001525879, -5.4270000457764),
+				["AngleOffset"] = Angle(0, -90, 90),
+				["UniqueID"] = "1656616187",
+				["Size"] = 1.125,
+				["EditorExpand"] = true,
+				["Bone"] = "left calf",
+				["Model"] = "models/daedalus2/parts/marine_greaves.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "2505031598",
+								["ClassName"] = "beam",
+								["Width"] = 0.3,
+								["EndPointUID"] = "1343362311",
+								["Position"] = Vector(-1.930419921875, -4.7646484375, 9.75927734375),
+								["Bend"] = 2.4,
+								["Material"] = "cable/CABLE",
+								["Angles"] = Angle(-11.478187561035, 179.53492736816, 176.23097229004),
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(-1.878302100522e-005, 10.263432502747, -4.7811328840908e-005),
+						["UniqueID"] = "409620705",
+						["ClassName"] = "model",
+						["EditorExpand"] = true,
+						["Position"] = Vector(0.267578125, -1.49169921875, -0.0009765625),
+						["Model"] = "models/daedalus2/parts/marine_helmet_cmdr.mdl",
+						["AngleOffset"] = Angle(0, -90, -90),
+					},
+				},
+			},
+			["self"] = {
+				["BoneMerge"] = true,
+				["ClassName"] = "model",
+				["UniqueID"] = "3900825808",
+				["Model"] = "models/daedalus2/male/marine_m_henry.mdl",
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, 0, 180),
+						["Position"] = Vector(0, 0, -5.1999998092651),
+						["ClassName"] = "model",
+						["Size"] = 0.425,
+						["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+						["UniqueID"] = "3167854287",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "1705390175",
+						["Event"] = "weapon_class",
+						["Arguments"] = "halo5swepbattlerifle",
+						["Invert"] = true,
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, 0, 180),
+						["Size"] = 0.3,
+						["ClassName"] = "model",
+						["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+						["UniqueID"] = "2968422682",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Size"] = 0.425,
+						["Position"] = Vector(0, 0, -5.1999998092651),
+						["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+						["UniqueID"] = "2513036067",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "1872982649",
+				["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+				["AngleOffset"] = Angle(0, 0, -10.5),
+				["EditorExpand"] = true,
+				["Size"] = 0.3,
+				["Position"] = Vector(34.2978515625, -1.794921875, -11.958984375),
+				["ClassName"] = "model",
+				["Bone"] = "right hand",
+				["Translucent"] = true,
+				["Angles"] = Angle(0, -90, 90.89022064209),
+			},
+		},
+		[6] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-9.6476425824221e-005, -89.625999450684, 5.634906119667e-005),
+						["ClassName"] = "clip",
+						["UniqueID"] = "2005469995",
+						["Position"] = Vector(-0.0078125, 1.591796875, 0.001953125),
+					},
+				},
+			},
+			["self"] = {
+				["Position"] = Vector(16.4609375, -2.43359375, 4.1728515625),
+				["AngleOffset"] = Angle(0, -90, 90),
+				["UniqueID"] = "2973511388",
+				["Size"] = 1.125,
+				["EditorExpand"] = true,
+				["Bone"] = "right calf",
+				["Model"] = "models/daedalus2/parts/marine_greaves.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[7] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "3321184517",
+						["Event"] = "weapon_class",
+						["Arguments"] = "h3_magnum_swep",
+						["Invert"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, 0, 180),
+						["Position"] = Vector(0, 0, -5.1999998092651),
+						["ClassName"] = "model",
+						["Size"] = 0.425,
+						["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+						["UniqueID"] = "2967399013",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Size"] = 0.425,
+						["Position"] = Vector(0, 0, -5.1999998092651),
+						["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+						["UniqueID"] = "2548967808",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, 0, 180),
+						["Size"] = 0.3,
+						["ClassName"] = "model",
+						["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+						["UniqueID"] = "4062210337",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "2743454362",
+				["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+				["Angles"] = Angle(0, -90, 90.89022064209),
+				["Size"] = 0.3,
+				["ClassName"] = "model",
+				["Position"] = Vector(13.7314453125, -1.7998046875, -3.7646484375),
+				["Bone"] = "right hand",
+				["Translucent"] = true,
+				["EditorExpand"] = true,
+			},
+		},
+		[8] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["AngleOffset"] = Angle(0, 90, 0),
+						["UniqueID"] = "3151881970",
+						["Model"] = "models/cires992/props2/holomod_04.mdl",
+						["Size"] = 0.87,
+						["Position"] = Vector(-0.12480000406504, -0.72000002861023, 0.72000002861023),
+						["Translucent"] = true,
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, -145.39999389648, 0),
+						["UniqueID"] = "953566050",
+						["EditorExpand"] = true,
+						["Position"] = Vector(4.6356000900269, 2.0869998931885, -0.0002563476737123),
+						["ClassName"] = "clip",
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(0, -143.19999694824, 0),
+								["ClassName"] = "clip",
+								["UniqueID"] = "12914564",
+								["Position"] = Vector(1.2755999565125, 7.646999835968, -0.0002563476737123),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(0, 53.400001525879, 0),
+								["ClassName"] = "clip",
+								["UniqueID"] = "707790706",
+								["Position"] = Vector(1.2755999565125, 0.72720003128052, -0.0002563476737123),
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Size"] = 1.2,
+						["EditorExpand"] = true,
+						["Model"] = "models/lt_c/sci_fi/computers/crystal_hdd.mdl",
+						["UniqueID"] = "385150252",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["ClassName"] = "clip",
+						["UniqueID"] = "1479777245",
+						["Position"] = Vector(1.8750001192093, 0.0070312502793968, -0.0002563476737123),
+					},
+				},
+				[5] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(0, 90, 0),
+								["ClassName"] = "clip",
+								["UniqueID"] = "3431739534",
+								["Position"] = Vector(1.3956000804901, 0.84719997644424, -0.0002563476737123),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(0, -176, 0),
+								["ClassName"] = "clip",
+								["UniqueID"] = "3880087492",
+								["Position"] = Vector(3.0756001472473, 1.4472000598907, -0.0002563476737123),
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Size"] = 1.2,
+						["EditorExpand"] = true,
+						["Model"] = "models/lt_c/sci_fi/computers/crystal_hdd.mdl",
+						["UniqueID"] = "1526292724",
+					},
+				},
+				[6] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Max"] = 2.2,
+								["ClassName"] = "proxy",
+								["UniqueID"] = "4188430592",
+								["Expression"] = "time (90)",
+								["VelocityRoughness"] = 1,
+								["InputMultiplier"] = 16.4,
+								["Function"] = "none",
+								["VariableName"] = "AngleOffset",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "3158778354",
+						["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+						["ClassName"] = "model",
+						["Size"] = 0.09,
+						["PositionOffset"] = Vector(4.6800003051758, 2.0400002002716, 0),
+						["AngleOffset"] = Angle(513.78021240234, 123.59999847412, 90),
+						["Position"] = Vector(-0.24000000953674, -0.24000000953674, 0.60000002384186),
+						["Translucent"] = true,
+						["EditorExpand"] = true,
+					},
+				},
+				[7] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(0, 180, 0),
+								["ClassName"] = "clip",
+								["UniqueID"] = "1167846859",
+								["Position"] = Vector(-2.4444000720978, -0.23280002176762, -0.0002563476737123),
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Size"] = 1.2,
+						["EditorExpand"] = true,
+						["Model"] = "models/lt_c/sci_fi/computers/crystal_hdd.mdl",
+						["UniqueID"] = "2594745689",
+					},
+				},
+			},
+			["self"] = {
+				["AngleOffset"] = Angle(0, 180, 0),
+				["UniqueID"] = "1135822030",
+				["Position"] = Vector(4.65478515625, 0.0146484375, 5.560546875),
+				["Size"] = 1.2,
+				["Bone"] = "left thigh",
+				["Model"] = "models/lt_c/sci_fi/computers/crystal_hdd.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[9] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "1271065162",
+				["Scale"] = Vector(1, 1.1000000238419, 1),
+				["Position"] = Vector(1.9462890625, -1.93359375, 1.416015625),
+				["AngleOffset"] = Angle(7.8000001907349, -90, 180),
+				["Size"] = 0.8,
+				["PositionOffset"] = Vector(-1.1000000238419, 0, 0),
+				["ClassName"] = "model",
+				["Bone"] = "left upperarm",
+				["Model"] = "models/daedalus2/parts/marine_shoulderpad_single.mdl",
+				["Angles"] = Angle(156.60000610352, -1.7999999523163, 0),
+			},
+		},
+		[10] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "332278162",
+				["Scale"] = Vector(1, 1.1000000238419, 1),
+				["Position"] = Vector(0.404296875, -1.5479999780655, -0.82599997520447),
+				["AngleOffset"] = Angle(7.8000001907349, -90, 180),
+				["Size"] = 0.8,
+				["PositionOffset"] = Vector(-1.1000000238419, 0, 0),
+				["ClassName"] = "model",
+				["Bone"] = "right upperarm",
+				["Model"] = "models/daedalus2/parts/marine_shoulderpad_single.mdl",
+				["Angles"] = Angle(31.200000762939, -1.7999999523163, 0),
+			},
+		},
+		[11] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(11.878000259399, 3.3269999027252, -0.9794921875),
+				["AngleOffset"] = Angle(0, -179.89999389648, 90),
+				["UniqueID"] = "1950266447",
+				["PositionOffset"] = Vector(0, -3.4000000953674, 0),
+				["Size"] = 0.2,
+				["Bone"] = "right forearm",
+				["Model"] = "models/lt_c/sci_fi/dm_container_small.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[12] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "1330143992",
+						["Event"] = "weapon_class",
+						["Arguments"] = "halo5swepar",
+						["Invert"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, 0, 180),
+						["Size"] = 0.3,
+						["ClassName"] = "model",
+						["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+						["UniqueID"] = "1877744861",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, 0, 180),
+						["Position"] = Vector(0, 0, -5.1999998092651),
+						["ClassName"] = "model",
+						["Size"] = 0.425,
+						["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+						["UniqueID"] = "2233466448",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Size"] = 0.425,
+						["Position"] = Vector(0, 0, -5.1999998092651),
+						["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+						["UniqueID"] = "3127205252",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "492041405",
+				["Model"] = "models/cires992/props2/holomod_11_mesh.mdl",
+				["AngleOffset"] = Angle(0, 0, -10.5),
+				["EditorExpand"] = true,
+				["Size"] = 0.3,
+				["Position"] = Vector(34.2978515625, -1.794921875, -11.958984375),
+				["ClassName"] = "model",
+				["Bone"] = "right hand",
+				["Translucent"] = true,
+				["Angles"] = Angle(0, -90, 90.89022064209),
+			},
+		},
+		[13] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, 2.2999999523163, 180),
+						["UniqueID"] = "1343362311",
+						["PositionOffset"] = Vector(0, 0, -3.9000000953674),
+						["Position"] = Vector(0.89800000190735, -2.3959999084473, -6.2270002365112),
+						["Size"] = 0.2,
+						["Model"] = "models/lt_c/sci_fi/dm_container_small.mdl",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["Position"] = Vector(-1.234375, -3.3929998874664, 0),
+				["AngleOffset"] = Angle(0, -90, 90),
+				["UniqueID"] = "1659121144",
+				["Size"] = 0.55,
+				["ClassName"] = "model",
+				["Bone"] = "spine 4",
+				["Model"] = "models/imperial/buildings/fusebox/imp_fusebox.mdl",
+				["Scale"] = Vector(1.1000000238419, 1.1000000238419, 1),
+			},
+		},
+		[14] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 2,
+						["VelocityRoughness"] = 0,
+						["UniqueID"] = "2016915520",
+						["Axis"] = "y",
+						["Min"] = -2,
+						["VariableName"] = "Position",
+						["Offset"] = 0.2,
+						["InputMultiplier"] = 5,
+						["Function"] = "cos",
+						["ClassName"] = "proxy",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 2,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "1142314612",
+						["VelocityRoughness"] = 0,
+						["Axis"] = "z",
+						["InputMultiplier"] = 5,
+						["Min"] = -2,
+						["VariableName"] = "Position",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 2,
+						["VelocityRoughness"] = 0,
+						["UniqueID"] = "2868459591",
+						["Axis"] = "x",
+						["Min"] = -2,
+						["VariableName"] = "Position",
+						["Offset"] = 0.7,
+						["InputMultiplier"] = 5,
+						["Function"] = "cos",
+						["ClassName"] = "proxy",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Angles"] = Angle(1, 0, 0),
+				["UniqueID"] = "152507283",
+				["Size"] = 0.01,
+				["Position"] = Vector(-1.6909724473953, 1.9938766956329, -1.5932953357697),
+				["Bone"] = "hitpos",
+				["Model"] = "models/pac/default.mdl",
+				["Material"] = "models/effects/pyro/pilotlight_cloak",
+			},
+		},
+		[15] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(180, 0.40000000596046, 65.099998474121),
+						["UniqueID"] = "491295682",
+						["EditorExpand"] = true,
+						["Position"] = Vector(4.2769999504089, 3.1199998855591, 1.6150000095367),
+						["ClassName"] = "clip",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "models/cires992/props/keyboard01.mdl",
+						["AngleOffset"] = Angle(90, 90, 90),
+						["UniqueID"] = "1550533753",
+						["Size"] = 0.338,
+						["EditorExpand"] = true,
+						["Position"] = Vector(3.6380000114441, -4.8699998855591, 0),
+						["Translucent"] = true,
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["Model"] = "models/lt_c/holo_armband.mdl",
+				["AngleOffset"] = Angle(180, 90, 0),
+				["UniqueID"] = "1681093842",
+				["Size"] = 1.536,
+				["Position"] = Vector(2.935546875, -0.30199998617172, -0.87699997425079),
+				["Bone"] = "right forearm",
+				["Translucent"] = true,
+				["ClassName"] = "model",
+			},
+		},
+		[16] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(0, 0, 0.69999998807907),
+								["Bend"] = 4,
+								["Angles"] = Angle(-90, 90, 5.5999999046326),
+								["EndPointUID"] = "1950266447",
+								["UniqueID"] = "804565739",
+								["ClassName"] = "beam",
+								["Material"] = "cable/CABLE",
+								["Resolution"] = 15.7,
+								["Width"] = 0.2,
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "3494357759",
+						["Position"] = Vector(0, -0.0078125, 4.19580078125),
+						["Size"] = 0.05,
+						["Model"] = "models/lt_c/sci_fi/light_spotlight_rigged.mdl",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["Position"] = Vector(3.5966796875, 0.12939453125, -0.9794921875),
+				["AngleOffset"] = Angle(0, 180, 90),
+				["UniqueID"] = "1025792799",
+				["PositionOffset"] = Vector(0, -0.10000000149012, 0),
+				["Size"] = 0.2,
+				["Bone"] = "right forearm",
+				["Model"] = "models/lt_c/sci_fi/dm_container_small.mdl",
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2101710862",
+		["ClassName"] = "group",
+		["Name"] = "Marine",
+		["Description"] = "add parts to me!",
+	},
+},

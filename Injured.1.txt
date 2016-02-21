@@ -1,0 +1,196 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "entity",
+				["HideEntity"] = true,
+				["WalkSpeed"] = 60,
+				["SprintSpeed"] = 200,
+				["RunSpeed"] = 100,
+				["UniqueID"] = "3736923309",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["AngleOffset"] = Angle(0, 180, 0),
+						["UniqueID"] = "2583867769",
+						["Position"] = Vector(2.76513671875, -0.000732421875, 4.0634765625),
+						["Size"] = 0.425,
+						["Bone"] = "left thigh",
+						["Model"] = "models/items/personalmedkit/personalmedkit.mdl",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["BoneMerge"] = true,
+				["ClassName"] = "model",
+				["UniqueID"] = "90149603",
+				["Model"] = "models/haloroleplay/male/officers/male_06.mdl",
+				["EditorExpand"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Event"] = "is_on_ground",
+								["ClassName"] = "event",
+								["Invert"] = true,
+								["UniqueID"] = "1050526459",
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(-22.89999961853, 7.4000000953674, 104.19999694824),
+						["UniqueID"] = "1620507527",
+						["Bone"] = "left forearm",
+						["ClassName"] = "bone",
+						["EditorExpand"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Event"] = "is_on_ground",
+								["ClassName"] = "event",
+								["Invert"] = true,
+								["UniqueID"] = "3887333592",
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(33.099998474121, 45.599998474121, 46.599998474121),
+						["UniqueID"] = "1194319653",
+						["Bone"] = "right forearm",
+						["ClassName"] = "bone",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Run"] = "run_passive",
+				["ClassName"] = "holdtype",
+				["UniqueID"] = "1217013805",
+				["CrouchWalk"] = "cwalk_passive",
+				["CrouchIdle"] = "cidle_passive",
+				["EditorExpand"] = true,
+				["StandIdle"] = "idle_passive",
+				["Walk"] = "walk_passive",
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(0, 6.8000001907349, 0),
+								["UniqueID"] = "2461839142",
+								["ClassName"] = "model",
+								["Position"] = Vector(2.7009999752045, -3.0999999046326, 0),
+								["Model"] = "models/daedalus2/parts/marine_glasses_hanson.mdl",
+								["AngleOffset"] = Angle(0, -90, -90),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.46,
+								["EditorExpand"] = true,
+								["UniqueID"] = "295350389",
+								["ClassName"] = "bone",
+							},
+						},
+						[3] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "bone",
+										["UniqueID"] = "2386049043",
+										["Size"] = 112.025,
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["AngleOffset"] = Angle(0, -90, -90),
+								["Position"] = Vector(-2.58251953125, -0.0009765625, -0.00341796875),
+								["Size"] = 0.06,
+								["EditorExpand"] = true,
+								["UniqueID"] = "484180546",
+								["Model"] = "models/haloroleplay/male/cadets/male_07.mdl",
+								["Scale"] = Vector(0.89999997615814, 0.89999997615814, 0.89999997615814),
+							},
+						},
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "3213040009",
+						["Model"] = "models/barnes/refugee/male_115.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Position"] = Vector(3.615234375, 0.01416015625, -20.125),
+						["EditorExpand"] = true,
+						["Size"] = 1.025,
+						["Bone"] = "",
+						["Model"] = "models/props_unique/wheelchair01.mdl",
+						["UniqueID"] = "3952719744",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["ClassName"] = "animation",
+						["UniqueID"] = "1273975569",
+						["SequenceName"] = "sit",
+					},
+				},
+			},
+			["self"] = {
+				["Position"] = Vector(23.299999237061, -0.0078125, 19.530700683594),
+				["ClassName"] = "model",
+				["UniqueID"] = "2347998043",
+				["EditorExpand"] = true,
+				["Color"] = Vector(0, 0, 0),
+				["Bone"] = "",
+				["Model"] = "models/player/barney.mdl",
+				["Material"] = "models/props_halloween/halloween_demoeye_glass",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "176203953",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

@@ -1,0 +1,1898 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Model"] = "models/player/barney.mdl",
+				["ClassName"] = "entity",
+				["HideEntity"] = true,
+				["UniqueID"] = "64437794",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Do not change",
+		["ClassName"] = "group",
+		["UniqueID"] = "1966806258",
+		["Description"] = "add parts to me!",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Velocity"] = 0,
+								["UniqueID"] = "3710853805",
+								["Color1"] = Vector(145, 145, 145),
+								["FireDelay"] = 2,
+								["EndSize"] = 1,
+								["ClassName"] = "particles",
+								["DieTime"] = 2,
+								["Position"] = Vector(0.84500002861023, -0.016000000759959, -0.034000001847744),
+								["Lighting"] = false,
+								["Material"] = "particle/smokesprites_0006",
+								["StartSize"] = 0.7,
+								["Gravity"] = Vector(0, 0, 10),
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(-21.352510452271, -90.040031433105, -3.8165142536163),
+						["Position"] = Vector(0.55599999427795, -6.1539998054504, 1.3980000019073),
+						["ClassName"] = "model",
+						["Size"] = 0.575,
+						["EditorExpand"] = true,
+						["Model"] = "models/oldcigshib.mdl",
+						["UniqueID"] = "73741962",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Cigarette",
+				["ClassName"] = "group",
+				["UniqueID"] = "3916358929",
+				["Hide"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(90.199996948242, -90, -90),
+						["UniqueID"] = "4196477626",
+						["ClassName"] = "model",
+						["Position"] = Vector(3.1730000972748, 1.8960000276566, 0),
+						["Model"] = "models/weld_helmet.mdl",
+						["AngleOffset"] = Angle(0, 0, -7.9000000953674),
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Mask 3",
+				["ClassName"] = "group",
+				["UniqueID"] = "2396242160",
+				["Hide"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(90, 104, 90.000030517578),
+						["UniqueID"] = "2241487625",
+						["ClassName"] = "model",
+						["Size"] = 1.2,
+						["Position"] = Vector(6.595703125, -0.69189453125, -0.0029296875),
+						["Model"] = "models/marine hat.mdl",
+						["AngleOffset"] = Angle(0, 180, 0),
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Hat 3",
+				["ClassName"] = "group",
+				["UniqueID"] = "671950131",
+				["Hide"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(90, 97.800018310547, 90.000030517578),
+						["Position"] = Vector(1.5640000104904, -0.20200000703335, -0.0040000001899898),
+						["ClassName"] = "model",
+						["Model"] = "models/glasses.mdl",
+						["UniqueID"] = "2241487625",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Glasses 1",
+				["ClassName"] = "group",
+				["UniqueID"] = "671950131",
+				["Hide"] = true,
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(90, 104, 90.000030517578),
+						["Position"] = Vector(-1.677734375, -1.1650390625, -0.0048828125),
+						["ClassName"] = "model",
+						["Model"] = "models/headphones.mdl",
+						["UniqueID"] = "3453276159",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Headset 1",
+				["ClassName"] = "group",
+				["UniqueID"] = "2445960483",
+				["Hide"] = true,
+			},
+		},
+		[6] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(90, 97.800018310547, 90.000030517578),
+						["Position"] = Vector(-2.9365234375, -0.40234375, -0.00390625),
+						["ClassName"] = "model",
+						["Model"] = "models/gasmask.mdl",
+						["UniqueID"] = "364552984",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Mask1",
+				["ClassName"] = "group",
+				["UniqueID"] = "1420317215",
+				["Hide"] = true,
+			},
+		},
+		[7] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(90, -90, -90),
+						["Position"] = Vector(2.5920000076294, -3.9730000495911, 0),
+						["ClassName"] = "model",
+						["Model"] = "models/millitary_cap.mdl",
+						["UniqueID"] = "4196477626",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Hat 4",
+				["ClassName"] = "group",
+				["UniqueID"] = "2396242160",
+				["Hide"] = true,
+			},
+		},
+		[8] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(90, 0, -6.0999999046326),
+						["Position"] = Vector(1.7999999523163, 0, 0),
+						["ClassName"] = "model",
+						["Model"] = "models/cap.mdl",
+						["UniqueID"] = "1056113747",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Hat 1",
+				["ClassName"] = "group",
+				["UniqueID"] = "2831756221",
+				["Hide"] = true,
+			},
+		},
+		[9] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(90, -90, -90),
+						["Position"] = Vector(-6.7369999885559, 0, 0),
+						["ClassName"] = "model",
+						["Model"] = "models/mask.mdl",
+						["UniqueID"] = "28093237",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Mask 2",
+				["ClassName"] = "group",
+				["UniqueID"] = "812768843",
+				["Hide"] = true,
+			},
+		},
+		[10] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(5.1965937614441, -82.199996948242, -90.000015258789),
+						["Position"] = Vector(0.26300001144409, 1.4630000591278, -4.1770000457764),
+						["ClassName"] = "model",
+						["Model"] = "models/fo3_enlisti_cap.mdl",
+						["UniqueID"] = "364552984",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Hat 2",
+				["ClassName"] = "group",
+				["UniqueID"] = "1420317215",
+				["Hide"] = true,
+			},
+		},
+		[11] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, -90, -90),
+						["UniqueID"] = "2676232917",
+						["ClassName"] = "model",
+						["Position"] = Vector(2.5680000782013, -3.0230000019073, 0.10000000149012),
+						["Model"] = "models/daedalus2/parts/marine_glasses_hanson.mdl",
+						["AngleOffset"] = Angle(-7.4000000953674, 0, 0),
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Glasses 6",
+				["ClassName"] = "group",
+				["UniqueID"] = "1210742979",
+				["Hide"] = true,
+			},
+		},
+		[12] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(90, -90, -90),
+						["UniqueID"] = "364552984",
+						["ClassName"] = "model",
+						["Position"] = Vector(0.59700000286102, -4.5130000114441, 0.10000000149012),
+						["Model"] = "models/operator_google.mdl",
+						["AngleOffset"] = Angle(0, 0, -17),
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Headset 2",
+				["ClassName"] = "group",
+				["UniqueID"] = "1420317215",
+				["Hide"] = true,
+			},
+		},
+		[13] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, -90, -90),
+						["UniqueID"] = "4278596432",
+						["ClassName"] = "model",
+						["Position"] = Vector(2.1679999828339, -3.0230000019073, 0.5),
+						["Model"] = "models/daedalus2/parts/marine_glasses.mdl",
+						["AngleOffset"] = Angle(-7.4000000953674, 0, 0),
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Glasses 5",
+				["ClassName"] = "group",
+				["UniqueID"] = "3373192680",
+				["Hide"] = true,
+			},
+		},
+		[14] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, -90, -90),
+						["UniqueID"] = "2241487625",
+						["ClassName"] = "model",
+						["Position"] = Vector(2.7679998874664, -1.9229999780655, -0.064999997615814),
+						["Model"] = "models/gmod_tower/aviators.mdl",
+						["AngleOffset"] = Angle(-7.4000000953674, 0, 0),
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Glasses 3",
+				["ClassName"] = "group",
+				["UniqueID"] = "671950131",
+				["Hide"] = true,
+			},
+		},
+		[15] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, -90, -90),
+						["UniqueID"] = "3453276159",
+						["ClassName"] = "model",
+						["Position"] = Vector(2.7679998874664, -2.2230000495911, 0),
+						["Model"] = "models/gmod_tower/klienerglasses.mdl",
+						["AngleOffset"] = Angle(-7.4000000953674, 0, 0),
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Glasses 4",
+				["ClassName"] = "group",
+				["UniqueID"] = "2445960483",
+				["Hide"] = true,
+			},
+		},
+		[16] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(90, 104, 90.000030517578),
+						["Position"] = Vector(-0.23600000143051, -0.80199998617172, -0.0040000001899898),
+						["ClassName"] = "model",
+						["Model"] = "models/googles_02.mdl",
+						["UniqueID"] = "4196477626",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Glasses 2",
+				["ClassName"] = "group",
+				["UniqueID"] = "2396242160",
+				["Hide"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Head Accesories",
+		["ClassName"] = "group",
+		["UniqueID"] = "1348398810",
+		["EditorExpand"] = true,
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "bone",
+								["UniqueID"] = "390798083",
+								["Size"] = 100,
+							},
+						},
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "136755665",
+						["Size"] = 0.01,
+						["Model"] = "models/halo3odst/odstsandro.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "5",
+				["ClassName"] = "group",
+				["UniqueID"] = "776503887",
+				["Hide"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "bone",
+								["UniqueID"] = "2094374860",
+								["Size"] = 100,
+							},
+						},
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "1092996884",
+						["Size"] = 0.01,
+						["Model"] = "models/halo3odst/odstvan.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "7",
+				["ClassName"] = "group",
+				["UniqueID"] = "920761014",
+				["Hide"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "bone",
+								["UniqueID"] = "453660147",
+								["Size"] = 100,
+							},
+						},
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "369389364",
+						["Size"] = 0.01,
+						["Model"] = "models/halo3odst/odsteric.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "2",
+				["ClassName"] = "group",
+				["UniqueID"] = "3465308991",
+				["Hide"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "bone",
+								["UniqueID"] = "2540792097",
+								["Size"] = 100,
+							},
+						},
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "2600560553",
+						["Size"] = 0.01,
+						["Model"] = "models/halo3odst/odstvance.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "8",
+				["ClassName"] = "group",
+				["UniqueID"] = "3820039273",
+				["Hide"] = true,
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 100,
+								["EditorExpand"] = true,
+								["UniqueID"] = "3502178252",
+								["ClassName"] = "bone",
+							},
+						},
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "1744628730",
+						["Size"] = 0.01,
+						["Model"] = "models/halo3odst/odstjoe.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "3",
+				["ClassName"] = "group",
+				["UniqueID"] = "3606489799",
+				["Hide"] = true,
+			},
+		},
+		[6] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "bone",
+								["UniqueID"] = "1944176751",
+								["Size"] = 100,
+							},
+						},
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "2903461418",
+						["Size"] = 0.01,
+						["Model"] = "models/halo3odst/odstmike.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "4",
+				["ClassName"] = "group",
+				["UniqueID"] = "4082731477",
+				["Hide"] = true,
+			},
+		},
+		[7] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "bone",
+								["UniqueID"] = "3009441660",
+								["Size"] = 100,
+							},
+						},
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "2481592003",
+						["Size"] = 0.01,
+						["Model"] = "models/halo3odst/odstted.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "6",
+				["ClassName"] = "group",
+				["UniqueID"] = "4223492127",
+				["Hide"] = true,
+			},
+		},
+		[8] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "bone",
+								["UniqueID"] = "3650125362",
+								["Size"] = 100,
+							},
+						},
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "3473182753",
+						["Size"] = 0.01,
+						["Model"] = "models/halo3odst/odsterdim.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "3490669443",
+				["Name"] = "1",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Heads",
+		["ClassName"] = "group",
+		["UniqueID"] = "1681854194",
+		["EditorExpand"] = true,
+	},
+},
+[4] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "2870919215",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "right finger 41",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "1080235282",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "right finger 31",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "710756222",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "right finger 32",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "1047981322",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "right finger 01",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "1856575669",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "right hand",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "1610573148",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "right finger 12",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "2879223089",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "right finger 22",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "3248422321",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "right finger 02",
+					},
+				},
+				[9] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "right hand",
+								["UniqueID"] = "1358239448",
+								["ClassName"] = "bone",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "right finger 42",
+								["UniqueID"] = "3126991266",
+								["ClassName"] = "bone",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 3.8,
+								["Bone"] = "right clavicle",
+								["UniqueID"] = "3713532831",
+								["ClassName"] = "bone",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "right finger 12",
+								["UniqueID"] = "95297731",
+								["ClassName"] = "bone",
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "right finger 41",
+								["UniqueID"] = "3744405047",
+								["ClassName"] = "bone",
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "clip",
+								["Position"] = Vector(0.3544921875, 3.39453125, -0.8603515625),
+								["Bone"] = "right upperarm",
+								["Angles"] = Angle(-66.588012695313, -71.213066101074, -108.85778808594),
+								["UniqueID"] = "3452465952",
+							},
+						},
+						[7] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "right upperarm",
+								["UniqueID"] = "77540262",
+								["ClassName"] = "bone",
+							},
+						},
+						[8] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "right finger 31",
+								["UniqueID"] = "192806498",
+								["ClassName"] = "bone",
+							},
+						},
+						[9] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "right finger 01",
+								["UniqueID"] = "1567704525",
+								["ClassName"] = "bone",
+							},
+						},
+						[10] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "right finger 22",
+								["UniqueID"] = "2146122529",
+								["ClassName"] = "bone",
+							},
+						},
+						[11] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 3.775,
+								["Bone"] = "right finger 4",
+								["UniqueID"] = "1737273067",
+								["ClassName"] = "bone",
+							},
+						},
+						[12] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "right finger 32",
+								["UniqueID"] = "88655890",
+								["ClassName"] = "bone",
+							},
+						},
+						[13] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "right forearm",
+								["UniqueID"] = "3137349316",
+								["ClassName"] = "bone",
+							},
+						},
+						[14] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "right finger 02",
+								["UniqueID"] = "3932819307",
+								["ClassName"] = "bone",
+							},
+						},
+						[15] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "right finger 11",
+								["UniqueID"] = "1535397554",
+								["ClassName"] = "bone",
+							},
+						},
+						[16] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "right finger 21",
+								["UniqueID"] = "3800627192",
+								["ClassName"] = "bone",
+							},
+						},
+						[17] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.4,
+								["Bone"] = "skirt",
+								["UniqueID"] = "518901935",
+								["ClassName"] = "bone",
+							},
+						},
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "2063213804",
+						["Size"] = 0.225,
+						["Model"] = "models/halo/unsc/characters/playermodels/female/kat_01.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "2210467806",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "right forearm",
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "2593247100",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "right upperarm",
+					},
+				},
+				[12] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "2367025888",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "right finger 11",
+					},
+				},
+				[13] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "1833561171",
+						["Hide"] = true,
+						["Size"] = 0.8,
+						["Bone"] = "right clavicle",
+					},
+				},
+				[14] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "1955895644",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "right finger 21",
+					},
+				},
+				[15] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "1488143410",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "right finger 42",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Right Arm",
+				["ClassName"] = "group",
+				["UniqueID"] = "581238622",
+				["Hide"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "530394498",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "left finger 12",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "4018343962",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "left upperarm",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "854906619",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "left finger 42",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "2382313328",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "left finger 21",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "2354918846",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "left finger 32",
+					},
+				},
+				[6] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "left finger 01",
+								["UniqueID"] = "1956153502",
+								["ClassName"] = "bone",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "left finger 22",
+								["UniqueID"] = "3591282159",
+								["ClassName"] = "bone",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 3.8,
+								["Bone"] = "right clavicle",
+								["UniqueID"] = "1724520852",
+								["ClassName"] = "bone",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "left forearm",
+								["UniqueID"] = "1944519399",
+								["ClassName"] = "bone",
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "left hand",
+								["UniqueID"] = "2955059542",
+								["ClassName"] = "bone",
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "left finger 31",
+								["UniqueID"] = "1667710306",
+								["ClassName"] = "bone",
+							},
+						},
+						[7] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "left finger 02",
+								["UniqueID"] = "3829016862",
+								["ClassName"] = "bone",
+							},
+						},
+						[8] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.4,
+								["Bone"] = "skirt",
+								["UniqueID"] = "1149857246",
+								["ClassName"] = "bone",
+							},
+						},
+						[9] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "left finger 12",
+								["UniqueID"] = "1866108699",
+								["ClassName"] = "bone",
+							},
+						},
+						[10] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "left finger 42",
+								["UniqueID"] = "3459052415",
+								["ClassName"] = "bone",
+							},
+						},
+						[11] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "left finger 21",
+								["UniqueID"] = "1653492555",
+								["ClassName"] = "bone",
+							},
+						},
+						[12] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "left finger 32",
+								["UniqueID"] = "3826590225",
+								["ClassName"] = "bone",
+							},
+						},
+						[13] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "left upperarm",
+								["UniqueID"] = "776928836",
+								["ClassName"] = "bone",
+							},
+						},
+						[14] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "left finger 11",
+								["UniqueID"] = "1144855741",
+								["ClassName"] = "bone",
+							},
+						},
+						[15] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 101.1,
+								["Bone"] = "left finger 41",
+								["UniqueID"] = "755907283",
+								["ClassName"] = "bone",
+							},
+						},
+						[16] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "clip",
+								["Position"] = Vector(1.1416015625, 0.966000020504, 2.248046875),
+								["Bone"] = "left upperarm",
+								["Angles"] = Angle(60.275848388672, -85.541007995605, 100.34375),
+								["UniqueID"] = "1370742058",
+							},
+						},
+						[17] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 3.775,
+								["Bone"] = "left finger 1",
+								["UniqueID"] = "3897793052",
+								["ClassName"] = "bone",
+							},
+						},
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "1667029442",
+						["Size"] = 0.225,
+						["Model"] = "models/halo/unsc/characters/playermodels/female/kat_01.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "3053106011",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "left hand",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "3465346547",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "left finger 22",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "3285203091",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "left finger 02",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "1738207190",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "left finger 11",
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "163315222",
+						["Hide"] = true,
+						["Size"] = 0.8,
+						["Bone"] = "left clavicle",
+					},
+				},
+				[12] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "3382141896",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "left finger 31",
+					},
+				},
+				[13] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "1069261645",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "left finger 41",
+					},
+				},
+				[14] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "4049340882",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "left forearm",
+					},
+				},
+				[15] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "3686770774",
+						["Hide"] = true,
+						["Size"] = 0.05,
+						["Bone"] = "left finger 01",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Left Arm",
+				["ClassName"] = "group",
+				["UniqueID"] = "3659091302",
+				["Hide"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "909157918",
+						["Hide"] = true,
+						["Size"] = 0.01,
+						["Bone"] = "left foot",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3377211493",
+						["Scale"] = Vector(1.1000000238419, 1.2000000476837, 0.40000000596046),
+						["Angles"] = Angle(-89.999969482422, 57.788208007813, 0),
+						["Size"] = 2.025,
+						["ClassName"] = "model",
+						["Position"] = Vector(2.86083984375, 3.8720703125, 0.008941650390625),
+						["Bone"] = "left foot",
+						["Model"] = "models/lt_c/sci_fi/coffee_mug.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3136858802",
+						["Hide"] = true,
+						["Scale"] = Vector(0.60000002384186, 0.60000002384186, 1.2000000476837),
+						["ClassName"] = "model",
+						["Angles"] = Angle(89.550361633301, 179.99957275391, 179.99978637695),
+						["Size"] = 0.175,
+						["PositionOffset"] = Vector(0, 0, -0.10000000149012),
+						["AngleOffset"] = Angle(0, -90, 0),
+						["Bone"] = "left calf",
+						["Model"] = "models/cire992/props4/equipmentlab12_mdl.mdl",
+						["Position"] = Vector(-1.9326171875, 0.0009765625, 0.01123046875),
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "1998632443",
+						["Hide"] = true,
+						["Size"] = 0.01,
+						["Bone"] = "left toe",
+					},
+				},
+				[5] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(90, 179.99977111816, 179.99980163574),
+								["ClassName"] = "clip",
+								["UniqueID"] = "1508225811",
+								["Position"] = Vector(0.0087890625, 0.0087890625, 21.275390625),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Model"] = "models/lt_c/sci_fi/support_beam_48.mdl",
+								["ClassName"] = "model",
+								["UniqueID"] = "1648004545",
+								["Size"] = 0.075,
+								["Angles"] = Angle(2.9882078251831e-006, -1.1952831300732e-005, 180),
+								["Position"] = Vector(1.2822265625, 0.01220703125, 20.416015625),
+								["Brightness"] = 0.5,
+								["Scale"] = Vector(1, 1, 0.80000001192093),
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Position"] = Vector(1.2841796875, 0.00634765625, -0.001953125),
+								["Model"] = "models/lt_c/sci_fi/support_beam_48.mdl",
+								["Size"] = 0.075,
+								["UniqueID"] = "294025157",
+								["Brightness"] = 0.5,
+								["Scale"] = Vector(1, 1, 2.0999999046326),
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "2430023802",
+						["Position"] = Vector(-1.9326171875, 0.0009765625, 0.01123046875),
+						["Scale"] = Vector(6, 6, 3),
+						["EditorExpand"] = true,
+						["AngleOffset"] = Angle(0, -90, 0),
+						["Size"] = 0.075,
+						["PositionOffset"] = Vector(0, 0, -0.10000000149012),
+						["ClassName"] = "model",
+						["Bone"] = "left calf",
+						["Model"] = "models/lt_c/sci_fi/pipe_256.mdl",
+						["Angles"] = Angle(89.550361633301, 179.99957275391, 179.99978637695),
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "909157918",
+						["Size"] = 0.01,
+						["Hide"] = true,
+						["Name"] = "left calf",
+						["Bone"] = "left calf",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Left Leg",
+				["ClassName"] = "group",
+				["UniqueID"] = "2472538740",
+				["Hide"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Position"] = Vector(1.2841796875, 0.00634765625, -0.001953125),
+								["Model"] = "models/lt_c/sci_fi/support_beam_48.mdl",
+								["Size"] = 0.075,
+								["UniqueID"] = "1648004545",
+								["Brightness"] = 0.5,
+								["Scale"] = Vector(1, 1, 2.0999999046326),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(90, 179.99977111816, 179.99980163574),
+								["ClassName"] = "clip",
+								["UniqueID"] = "312090058",
+								["Position"] = Vector(0.0087890625, 0.0087890625, 21.275390625),
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Model"] = "models/lt_c/sci_fi/support_beam_48.mdl",
+								["ClassName"] = "model",
+								["UniqueID"] = "331997808",
+								["Size"] = 0.075,
+								["Angles"] = Angle(2.9882078251831e-006, -1.1952831300732e-005, 180),
+								["Position"] = Vector(1.2822265625, 0.01220703125, 20.416015625),
+								["Brightness"] = 0.5,
+								["Scale"] = Vector(1, 1, 0.80000001192093),
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "3136858802",
+						["Position"] = Vector(-1.9326171875, 0.0009765625, 0.01123046875),
+						["Scale"] = Vector(6, 6, 3),
+						["EditorExpand"] = true,
+						["AngleOffset"] = Angle(0, -90, 0),
+						["Size"] = 0.075,
+						["PositionOffset"] = Vector(0, 0, -0.10000000149012),
+						["ClassName"] = "model",
+						["Bone"] = "right calf",
+						["Model"] = "models/lt_c/sci_fi/pipe_256.mdl",
+						["Angles"] = Angle(89.550361633301, 179.99957275391, 179.99978637695),
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3852249524",
+						["Scale"] = Vector(1.1000000238419, 1.2000000476837, 0.40000000596046),
+						["Angles"] = Angle(-89.999969482422, 57.788208007813, 0),
+						["Size"] = 2.025,
+						["ClassName"] = "model",
+						["Position"] = Vector(2.86083984375, 3.8720703125, 0.008941650390625),
+						["Bone"] = "right foot",
+						["Model"] = "models/lt_c/sci_fi/coffee_mug.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "1998632443",
+						["Hide"] = true,
+						["Size"] = 0.01,
+						["Bone"] = "right foot",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "2096194810",
+						["Hide"] = true,
+						["Size"] = 0.01,
+						["Bone"] = "right toe",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "999938369",
+						["Hide"] = true,
+						["Scale"] = Vector(0.60000002384186, 0.60000002384186, 1.2000000476837),
+						["ClassName"] = "model",
+						["Angles"] = Angle(89.550361633301, 179.99957275391, 179.99978637695),
+						["Size"] = 0.175,
+						["PositionOffset"] = Vector(0, 0, -0.10000000149012),
+						["AngleOffset"] = Angle(0, -90, 0),
+						["Bone"] = "right calf",
+						["Model"] = "models/cire992/props4/equipmentlab12_mdl.mdl",
+						["Position"] = Vector(-1.9326171875, 0.0009765625, 0.01123046875),
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "1998632443",
+						["Hide"] = true,
+						["Size"] = 0.01,
+						["Bone"] = "right calf",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Right Leg",
+				["ClassName"] = "group",
+				["UniqueID"] = "1587739863",
+				["Hide"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Replacements",
+		["ClassName"] = "group",
+		["UniqueID"] = "4231212340",
+		["EditorExpand"] = true,
+	},
+},
+[5] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "bone",
+								["UniqueID"] = "3801490904",
+								["Size"] = 0.01,
+							},
+						},
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "3724018445",
+						["Model"] = "models/barnes/refugee/male_115.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "820999447",
+				["Name"] = "1",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "bone",
+								["UniqueID"] = "3657415880",
+								["Size"] = 0.01,
+							},
+						},
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "3887853716",
+						["Model"] = "models/barnes/refugee/male_55.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "4",
+				["ClassName"] = "group",
+				["UniqueID"] = "697304279",
+				["Hide"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "bone",
+								["UniqueID"] = "3017244911",
+								["Size"] = 0.01,
+							},
+						},
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "419949379",
+						["Model"] = "models/barnes/refugee/male_73.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "3",
+				["ClassName"] = "group",
+				["UniqueID"] = "974941136",
+				["Hide"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "bone",
+								["UniqueID"] = "411121395",
+								["Size"] = 0.01,
+							},
+						},
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "3177422135",
+						["Model"] = "models/barnes/refugee/male_52.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "2",
+				["ClassName"] = "group",
+				["UniqueID"] = "4253224566",
+				["Hide"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Bodies",
+		["ClassName"] = "group",
+		["UniqueID"] = "411013359",
+		["EditorExpand"] = true,
+	},
+},
+[6] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "110749662",
+						["Model"] = "models/lt_c/sci_fi/computers/crystal_hdd.mdl",
+						["Angles"] = Angle(13.119999885559, -99.463989257813, -141.62199401855),
+						["Size"] = 1.125,
+						["AngleOffset"] = Angle(26.299999237061, 51.599998474121, 155.30000305176),
+						["ClassName"] = "model",
+						["Bone"] = "left thigh",
+						["Translucent"] = true,
+						["Position"] = Vector(7.033203125, -0.6171875, 2.787109375),
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "PDA 2",
+				["ClassName"] = "group",
+				["UniqueID"] = "52091064",
+				["Hide"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1505968159",
+						["Model"] = "models/lt_c/sci_fi/holo_tablet.mdl",
+						["Angles"] = Angle(-3.3801453113556, 130.13563537598, -154.82183837891),
+						["Size"] = 0.825,
+						["AngleOffset"] = Angle(26.299999237061, 51.099998474121, 155.30000305176),
+						["ClassName"] = "model",
+						["Bone"] = "left thigh",
+						["Translucent"] = true,
+						["Position"] = Vector(5.3525390625, 1.2412109375, 3.443359375),
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "PDA 1",
+				["ClassName"] = "group",
+				["UniqueID"] = "4202538604",
+				["Hide"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["AngleOffset"] = Angle(4, -0.80000001192093, 180),
+						["UniqueID"] = "3645474345",
+						["Size"] = 0.45,
+						["Position"] = Vector(1.9365234375, -4.0107421875, -1.0234375),
+						["Bone"] = "right thigh",
+						["Model"] = "models/cutting_torch.mdl",
+						["Angles"] = Angle(-20.933319091797, 87.658241271973, 2.0449645519257),
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Cutting torch",
+				["ClassName"] = "group",
+				["UniqueID"] = "2767734992",
+				["Hide"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["AngleOffset"] = Angle(0, 0, 155.30000305176),
+						["UniqueID"] = "2514972663",
+						["Position"] = Vector(5.9560546875, -0.2802734375, -3.0341796875),
+						["Size"] = 0.4,
+						["Bone"] = "right thigh",
+						["Model"] = "models/items/personalmedkit/personalmedkit.mdl",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Medkit",
+				["ClassName"] = "group",
+				["UniqueID"] = "2556726351",
+				["Hide"] = true,
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "models/lt_c/holo_armband.mdl",
+						["Angles"] = Angle(13.226733207703, -89.99991607666, 179.99995422363),
+						["UniqueID"] = "4286816049",
+						["Size"] = 1.125,
+						["Position"] = Vector(3.6943359375, -0.0859375, 0.634765625),
+						["Bone"] = "right forearm",
+						["Translucent"] = true,
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Wrist Display",
+				["ClassName"] = "group",
+				["UniqueID"] = "133765609",
+				["Hide"] = true,
+			},
+		},
+		[6] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["AngleOffset"] = Angle(26.299999237061, 51.099998474121, 155.30000305176),
+						["UniqueID"] = "1607110476",
+						["Position"] = Vector(5.9580078125, -0.28173828125, -3.56640625),
+						["Size"] = 0.825,
+						["Bone"] = "right thigh",
+						["Model"] = "models/haloreach/combat_knife/knife.mdl",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Knife",
+				["ClassName"] = "group",
+				["UniqueID"] = "362758420",
+				["Hide"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Body Acessories",
+		["ClassName"] = "group",
+		["UniqueID"] = "3500164945",
+		["EditorExpand"] = true,
+	},
+},

@@ -1,0 +1,553 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["EditorExpand"] = true,
+				["UniqueID"] = "3562981993",
+				["ClassName"] = "entity",
+				["Model"] = "models/player/barney.mdl",
+				["HideEntity"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-2.6680427254178e-005, -77.291702270508, -90.000007629395),
+						["Position"] = Vector(2.962890625, -3.126708984375, 0.00045013427734375),
+						["ClassName"] = "model",
+						["Model"] = "models/daedalus2/parts/marine_glasses_hanson.mdl",
+						["UniqueID"] = "2479089880",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "clip",
+								["Position"] = Vector(0.55900001525879, 0.0001220703125, 1.9869999885559),
+								["Bone"] = "chest",
+								["Angles"] = Angle(-90, 179.99996948242, -179.99992370605),
+								["UniqueID"] = "1944670975",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "clip",
+								["Position"] = Vector(-0.96899998188019, 9.1552734375e-005, 2.6770000457764),
+								["Angles"] = Angle(70.293228149414, 19.042741775513, 12.298705101013),
+								["Bone"] = "chest",
+								["AngleOffset"] = Angle(0.89999997615814, 1.6000000238419, 4.5),
+								["UniqueID"] = "367050014",
+							},
+						},
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "1514015252",
+						["Model"] = "models/player/scifi_mp3.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(78.123001098633, 6.4243125962093e-005, 7.0493020757567e-005),
+								["ClassName"] = "clip",
+								["UniqueID"] = "1212634397",
+								["Position"] = Vector(-0.08380126953125, 0.00012969970703125, 2.5199999809265),
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-78.684143066406, -179.99987792969, 179.99978637695),
+										["ClassName"] = "clip",
+										["UniqueID"] = "1968855758",
+										["Position"] = Vector(0.488525390625, 0.000396728515625, 0.5654296875),
+									},
+								},
+							},
+							["self"] = {
+								["Model"] = "models/haloroleplay/props/helmets/officerhat.mdl",
+								["Angles"] = Angle(-90, 90, 0),
+								["UniqueID"] = "4095037454",
+								["Size"] = 1.05,
+								["EditorExpand"] = true,
+								["ClassName"] = "model",
+								["Brightness"] = 13.5,
+								["AngleOffset"] = Angle(0, -90, -90),
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "4129762788",
+						["Position"] = Vector(4.7353515625, -0.3623046875, 0.00055313110351563),
+						["AngleOffset"] = Angle(0, -90, -90),
+						["Size"] = 1.05,
+						["Angles"] = Angle(-2.1611144802591e-006, 12.119184494019, -1.2166275155323e-005),
+						["Color"] = Vector(182, 182, 182),
+						["ClassName"] = "model",
+						["Model"] = "models/haloroleplay/props/helmets/officerhat.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+				[4] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["AngleOffset"] = Angle(0, 90, 90),
+								["Position"] = Vector(2.6767578125, -3.7158203125, -0.107421875),
+								["ClassName"] = "model",
+								["Size"] = 0.25,
+								["Model"] = "models/cires992/props/keyboard02.mdl",
+								["UniqueID"] = "852535389",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(0, 179.99998474121, 179.99993896484),
+								["ClassName"] = "clip",
+								["UniqueID"] = "2895985682",
+								["Position"] = Vector(3.4130001068115, 0.041015625, -0.00048828125),
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["AngleOffset"] = Angle(0, -81, 0),
+						["UniqueID"] = "3434250512",
+						["EditorExpand"] = true,
+						["Position"] = Vector(11.2197265625, 0.119384765625, -0.00537109375),
+						["Bone"] = "left forearm",
+						["Model"] = "models/lt_c/holo_armband.mdl",
+						["Angles"] = Angle(3.4150943974964e-006, -11.099786758423, -3.329717219458e-005),
+					},
+				},
+			},
+			["self"] = {
+				["BoneMerge"] = true,
+				["ClassName"] = "model",
+				["UniqueID"] = "3736887297",
+				["EditorExpand"] = true,
+				["Bone"] = "",
+				["Model"] = "models/player/scifi_male_09.mdl",
+				["Position"] = Vector(54.194885253906, 0.00396728515625, 23.8408203125),
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "my outfit",
+		["ClassName"] = "group",
+		["UniqueID"] = "2496705478",
+		["Description"] = "add parts to me!",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Jiggle"] = true,
+				["ClassName"] = "bone",
+				["UniqueID"] = "2205718635",
+				["Bone"] = "spine",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Jiggle"] = true,
+				["ClassName"] = "bone",
+				["UniqueID"] = "2205718635",
+				["EditorExpand"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Jiggle"] = true,
+				["ClassName"] = "bone",
+				["UniqueID"] = "2205718635",
+				["Bone"] = "right upperarm",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Jiggle"] = true,
+				["ClassName"] = "bone",
+				["UniqueID"] = "2205718635",
+				["Bone"] = "spine 2",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Jiggle"] = true,
+				["ClassName"] = "bone",
+				["UniqueID"] = "2205718635",
+				["Bone"] = "spine 1",
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Jiggle"] = true,
+				["ClassName"] = "bone",
+				["UniqueID"] = "2205718635",
+				["Bone"] = "left clavicle",
+				["EditorExpand"] = true,
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Jiggle"] = true,
+				["ClassName"] = "bone",
+				["UniqueID"] = "2205718635",
+				["Bone"] = "left hand",
+			},
+		},
+		[8] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "3641570718",
+						["Bone"] = "right finger 02",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "57698398",
+						["Bone"] = "right finger 11",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "57698398",
+						["Bone"] = "right finger 31",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "57698398",
+						["Bone"] = "right finger 21",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "57698398",
+						["Bone"] = "right finger 01",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "57698398",
+						["Bone"] = "right finger 3",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "57698398",
+						["Bone"] = "right finger 2",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "2378253395",
+						["Bone"] = "right finger 0",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "57698398",
+						["Bone"] = "right finger 1",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "2378253395",
+						["Bone"] = "right finger 41",
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "57698398",
+						["Bone"] = "right finger 4",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "3617528038",
+				["EditorExpand"] = true,
+			},
+		},
+		[9] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Jiggle"] = true,
+				["ClassName"] = "bone",
+				["UniqueID"] = "2205718635",
+				["Bone"] = "right forearm",
+			},
+		},
+		[10] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Jiggle"] = true,
+				["ClassName"] = "bone",
+				["UniqueID"] = "2205718635",
+				["Bone"] = "right hand",
+			},
+		},
+		[11] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Jiggle"] = true,
+				["ClassName"] = "bone",
+				["UniqueID"] = "2205718635",
+				["Bone"] = "neck",
+			},
+		},
+		[12] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Jiggle"] = true,
+				["ClassName"] = "bone",
+				["UniqueID"] = "2205718635",
+				["Bone"] = "left forearm",
+			},
+		},
+		[13] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Jiggle"] = true,
+				["ClassName"] = "bone",
+				["UniqueID"] = "2205718635",
+				["Bone"] = "right clavicle",
+			},
+		},
+		[14] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Jiggle"] = true,
+				["ClassName"] = "bone",
+				["UniqueID"] = "2205718635",
+				["Bone"] = "spine 4",
+			},
+		},
+		[15] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Jiggle"] = true,
+				["ClassName"] = "bone",
+				["UniqueID"] = "2205718635",
+				["Bone"] = "left upperarm",
+			},
+		},
+		[16] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "2378253395",
+						["Bone"] = "left finger 02",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "2865329488",
+						["Bone"] = "left finger 2",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "2865329488",
+						["Bone"] = "left finger 01",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "2865329488",
+						["Bone"] = "left finger 3",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "2865329488",
+						["Bone"] = "left finger 31",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "2865329488",
+						["Bone"] = "left finger 1",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "57698398",
+						["Bone"] = "left finger 0",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "2865329488",
+						["Bone"] = "left finger 11",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "57698398",
+						["Bone"] = "left finger 41",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "2865329488",
+						["Bone"] = "left finger 21",
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Jiggle"] = true,
+						["ClassName"] = "bone",
+						["UniqueID"] = "2865329488",
+						["Bone"] = "left finger 4",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "1317290496",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Jiggle Bones (Fucking Ridiculous)",
+		["ClassName"] = "group",
+		["UniqueID"] = "952997239",
+		["Hide"] = true,
+	},
+},

@@ -1,0 +1,236 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, 90, 4.9489881348563e-005),
+						["ClassName"] = "clip",
+						["UniqueID"] = "808107996",
+						["Position"] = Vector(0.233642578125, -0.8656005859375, -0.02734375),
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(-1.7366106510162, -97.223442077637, 93.562995910645),
+				["UniqueID"] = "759857518",
+				["Position"] = Vector(20.3388671875, -3.042236328125, -4.5178833007813),
+				["EditorExpand"] = true,
+				["Bone"] = "left calf",
+				["Model"] = "models/daedalus2/parts/marine_greaves.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-5.3121390342712, -89.132209777832, 179.96070861816),
+				["UniqueID"] = "2369023535",
+				["Position"] = Vector(0.8798828125, -2.2734985351563, -1.465576171875),
+				["EditorExpand"] = true,
+				["Bone"] = "right upperarm",
+				["Model"] = "models/daedalus2/parts/marine_shoulderpad_single.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(-2.3974609375, 8.767578125, -4.8623962402344),
+				["Angles"] = Angle(19.238775253296, 68.907821655273, 90.493186950684),
+				["UniqueID"] = "667591192",
+				["Size"] = 0.475,
+				["ClassName"] = "model",
+				["Bone"] = "spine 4",
+				["Model"] = "models/fallout 3/backpack_1_m.mdl",
+				["Scale"] = Vector(1.2999999523163, 0.69999998807907, 1.2000000476837),
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(130.60000610352, 90, 0),
+						["ClassName"] = "clip",
+						["UniqueID"] = "3326916519",
+						["Position"] = Vector(0.0068359375, 2.879638671875, 3.3438415527344),
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-46.200000762939, 90, 9),
+								["ClassName"] = "clip",
+								["UniqueID"] = "3583855980",
+								["Position"] = Vector(0.0263671875, 3.3719999790192, 0.15700000524521),
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(0, 0, 90),
+						["Material"] = "https://56.media.tumblr.com/ad606bd2d916584ff13d709eb3b6cfdb/tumblr_o3kwq5kaiy1v8luggo1_540.jpg",
+						["UniqueID"] = "1116343658",
+						["EditorExpand"] = true,
+						["Position"] = Vector(-0.0029296875, 4.8388671875, -1.4574432373047),
+						["ClassName"] = "model",
+						["Model"] = "https://www.dropbox.com/s/kml7434bcdgy08d/Case%202.obj?dl=0",
+						["AngleOffset"] = Angle(0, 0.10000000149012, 0),
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Angles"] = Angle(68.776214599609, 103.9130859375, 11.762016296387),
+				["UniqueID"] = "1702448726",
+				["EditorExpand"] = true,
+				["Position"] = Vector(-5.451171875, -5.9454345703125, -3.3546752929688),
+				["Bone"] = "spine 1",
+				["Model"] = "https://www.dropbox.com/s/kml7434bcdgy08d/Case%202.obj?dl=0",
+				["Material"] = "https://56.media.tumblr.com/ad606bd2d916584ff13d709eb3b6cfdb/tumblr_o3kwq5kaiy1v8luggo1_540.jpg",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-4.3660144805908, 6.4605674743652, 33.91236114502),
+				["UniqueID"] = "2846810751",
+				["Position"] = Vector(5.8388671875, -2.8212890625, 4.3491821289063),
+				["Size"] = 0.475,
+				["Bone"] = "left thigh",
+				["Model"] = "models/items/personalmedkit/personalmedkit.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[6] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Angles"] = Angle(90, 180, 90),
+						["Position"] = Vector(0.400390625, -4.1806640625, 0.37353515625),
+						["Size"] = 0.625,
+						["EditorExpand"] = true,
+						["UniqueID"] = "3476133176",
+						["Model"] = "models/fallout 3/backpack_1.mdl",
+						["Scale"] = Vector(1.1000000238419, 0.89999997615814, 1.7000000476837),
+					},
+				},
+			},
+			["self"] = {
+				["Position"] = Vector(3.5751953125, -1.1202392578125, -6.7826690673828),
+				["Angles"] = Angle(10.940391540527, 84.67650604248, 6.913145625731e-005),
+				["UniqueID"] = "244192314",
+				["Size"] = 0.725,
+				["EditorExpand"] = true,
+				["Bone"] = "right thigh",
+				["Model"] = "models/lt_c/sci_fi/holo_tablet.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-18.863105773926, 90.850074768066, 0.041372507810593),
+				["UniqueID"] = "801302625",
+				["Position"] = Vector(0.87109375, 1.3238525390625, 1.6314697265625),
+				["EditorExpand"] = true,
+				["Bone"] = "left upperarm",
+				["Model"] = "models/daedalus2/parts/marine_shoulderpad_single.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[8] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Model"] = "models/daedalus2/male/marine_m_henry.mdl",
+				["EditorExpand"] = true,
+				["UniqueID"] = "3562981993",
+				["ClassName"] = "entity",
+			},
+		},
+		[9] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-1.009829044342, 27.868389129639, 0.00022116172476672),
+				["UniqueID"] = "360811744",
+				["ClassName"] = "model",
+				["Position"] = Vector(-0.4814453125, -2.73779296875, 0.012466430664063),
+				["Model"] = "models/daedalus2/parts/marine_helmet_cmdr.mdl",
+				["AngleOffset"] = Angle(0, -90, -90),
+			},
+		},
+		[10] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(-2.3896484375, -1.48291015625, 7.62939453125e-005),
+				["Angles"] = Angle(-7.1260711820287e-007, 0, 90),
+				["UniqueID"] = "453218079",
+				["Size"] = 0.65,
+				["ClassName"] = "model",
+				["Bone"] = "spine 4",
+				["Model"] = "models/daedalus2/parts/marine_backpack.mdl",
+				["Scale"] = Vector(1, 1.2999999523163, 1),
+			},
+		},
+		[11] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Model"] = "models/lt_c/holo_armband.mdl",
+				["Angles"] = Angle(-2.9882075978094e-005, -90, 4.6103778004181e-005),
+				["UniqueID"] = "2492013143",
+				["Size"] = 1.25,
+				["Position"] = Vector(9.59765625, -0.4072265625, 0.869873046875),
+				["Bone"] = "left forearm",
+				["Translucent"] = true,
+				["ClassName"] = "model",
+			},
+		},
+		[12] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(3.3083728339989e-005, -90, -6.2752362282481e-005),
+						["ClassName"] = "clip",
+						["UniqueID"] = "1846630337",
+						["Position"] = Vector(0.230224609375, 1.8084716796875, -0.0126953125),
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(-1.7366106510162, -97.223442077637, 93.562995910645),
+				["UniqueID"] = "1089584722",
+				["Position"] = Vector(19.734375, -3.565185546875, 4.9049072265625),
+				["EditorExpand"] = true,
+				["Bone"] = "right calf",
+				["Model"] = "models/daedalus2/parts/marine_greaves.mdl",
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2496705478",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

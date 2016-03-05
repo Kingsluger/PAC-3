@@ -1,0 +1,865 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "1901784860",
+						["Size"] = 97.325,
+						["ClassName"] = "bone",
+						["Position"] = Vector(0.48828125, 0.005859375, 0.00146484375),
+					},
+				},
+			},
+			["self"] = {
+				["BoneMerge"] = true,
+				["ClassName"] = "model",
+				["UniqueID"] = "3576539883",
+				["Model"] = "models/haloroleplay/male/cadets/male_02.mdl",
+				["Size"] = 0.01,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 65.675,
+						["Bone"] = "left clavicle",
+						["UniqueID"] = "2444748328",
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "right bicep",
+						["UniqueID"] = "2201839736",
+						["ClassName"] = "bone",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 65.675,
+						["Bone"] = "right clavicle",
+						["UniqueID"] = "183179286",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "right ulna",
+						["UniqueID"] = "2201839736",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "clip",
+						["Position"] = Vector(2.62890625, 0.36083984375, -0.0013427734375),
+						["Bone"] = "right upperarm",
+						["Angles"] = Angle(1.451415118936e-005, -173.60173034668, -3.585849844967e-005),
+						["UniqueID"] = "2178960773",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100.6,
+						["Bone"] = "right forearm",
+						["UniqueID"] = "183179286",
+						["ClassName"] = "bone",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 51.85,
+						["Bone"] = "left hand",
+						["UniqueID"] = "2201839736",
+						["ClassName"] = "bone",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100.6,
+						["Bone"] = "left forearm",
+						["UniqueID"] = "2420389636",
+						["ClassName"] = "bone",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "right upperarm",
+						["UniqueID"] = "2201839736",
+						["ClassName"] = "bone",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "left bicep",
+						["UniqueID"] = "1320634827",
+						["ClassName"] = "bone",
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "right shoulder",
+						["UniqueID"] = "2201839736",
+						["ClassName"] = "bone",
+					},
+				},
+				[12] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "clip",
+						["Position"] = Vector(2.62890625, 0.36083984375, -0.0013427734375),
+						["Bone"] = "left upperarm",
+						["Angles"] = Angle(1.451415118936e-005, -173.60173034668, -3.585849844967e-005),
+						["UniqueID"] = "331496295",
+					},
+				},
+				[13] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "left shoulder",
+						["UniqueID"] = "1320634827",
+						["ClassName"] = "bone",
+					},
+				},
+				[14] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "left upperarm",
+						["UniqueID"] = "1320634827",
+						["ClassName"] = "bone",
+					},
+				},
+				[15] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "left ulna",
+						["UniqueID"] = "1320634827",
+						["ClassName"] = "bone",
+					},
+				},
+				[16] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 51.85,
+						["Bone"] = "right hand",
+						["UniqueID"] = "2420389636",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["BoneMerge"] = true,
+				["ClassName"] = "model",
+				["UniqueID"] = "2044652249",
+				["Model"] = "models/pac/male/base_male.mdl",
+				["Size"] = 0.01,
+				["Brightness"] = 0.5,
+				["Material"] = "models/props_canal/metalwall005b",
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "3543126273",
+						["PositionOffset"] = Vector(1.2999999523163, 0, 0),
+						["Size"] = 0.085,
+						["ClassName"] = "bone",
+						["Position"] = Vector(-0.2158203125, -0.0048828125, 0.00018310546875),
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "3078389575",
+						["Bone"] = "neck",
+						["Size"] = 0.925,
+						["ClassName"] = "bone",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.01,
+						["Bone"] = "right forearm",
+						["UniqueID"] = "2659358286",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.01,
+						["Bone"] = "right upperarm",
+						["UniqueID"] = "2990607197",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.01,
+						["Bone"] = "left forearm",
+						["UniqueID"] = "2331556652",
+						["ClassName"] = "bone",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.01,
+						["Bone"] = "left upperarm",
+						["UniqueID"] = "775542123",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["BoneMerge"] = true,
+				["ClassName"] = "model",
+				["UniqueID"] = "3684073668",
+				["Model"] = "models/barnes/refugee/male_115.mdl",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["AngleOffset"] = Angle(0, 90, 0),
+				["UniqueID"] = "1406908688",
+				["Size"] = 0.725,
+				["Position"] = Vector(3.966796875, -1.6488037109375, 2.0570068359375),
+				["Bone"] = "left thigh",
+				["Model"] = "models/lt_c/sci_fi/holo_tablet.mdl",
+				["Angles"] = Angle(-0.038553860038519, -0.036348573863506, 29.379697799683),
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 65.675,
+						["Bone"] = "left clavicle",
+						["UniqueID"] = "2420389636",
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "right bicep",
+						["UniqueID"] = "3952326717",
+						["ClassName"] = "bone",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "left bicep",
+						["UniqueID"] = "4029459477",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "right shoulder",
+						["UniqueID"] = "3952326717",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "left ulna",
+						["UniqueID"] = "4029459477",
+						["ClassName"] = "bone",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100.6,
+						["Bone"] = "left forearm",
+						["UniqueID"] = "1320634827",
+						["ClassName"] = "bone",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "right ulna",
+						["UniqueID"] = "3952326717",
+						["ClassName"] = "bone",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 51.85,
+						["Bone"] = "left hand",
+						["UniqueID"] = "3952326717",
+						["ClassName"] = "bone",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 51.85,
+						["Bone"] = "right hand",
+						["UniqueID"] = "1320634827",
+						["ClassName"] = "bone",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "clip",
+						["Position"] = Vector(0.587890625, 0.1923828125, -0.0009765625),
+						["EditorExpand"] = true,
+						["Bone"] = "left upperarm",
+						["Angles"] = Angle(0, 6.9980001449585, -179.99981689453),
+						["UniqueID"] = "3774043239",
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 65.675,
+						["Bone"] = "right clavicle",
+						["UniqueID"] = "2201839736",
+						["ClassName"] = "bone",
+					},
+				},
+				[12] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "3952326717",
+						["Bone"] = "right upperarm",
+						["Size"] = 100,
+						["ClassName"] = "bone",
+					},
+				},
+				[13] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100.6,
+						["Bone"] = "right forearm",
+						["UniqueID"] = "2201839736",
+						["ClassName"] = "bone",
+					},
+				},
+				[14] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "left shoulder",
+						["UniqueID"] = "4029459477",
+						["ClassName"] = "bone",
+					},
+				},
+				[15] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "left upperarm",
+						["UniqueID"] = "4029459477",
+						["ClassName"] = "bone",
+					},
+				},
+				[16] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-90, 0, 0),
+						["ClassName"] = "clip",
+						["UniqueID"] = "3257962625",
+						["Bone"] = "spine 4",
+					},
+				},
+			},
+			["self"] = {
+				["BoneMerge"] = true,
+				["ClassName"] = "model",
+				["UniqueID"] = "2556033098",
+				["Model"] = "models/pac/male/base_male.mdl",
+				["Color"] = Vector(89, 79, 60),
+				["Size"] = 0.01,
+				["Brightness"] = 5.4,
+				["Material"] = "https://56.media.tumblr.com/02d9219fea6d5d3546e1ceaaf16dfd92/tumblr_o3l1fhweke1v8luggo2_r1_250.jpg",
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "232447355",
+				["Position"] = Vector(4.845703125, -2.52978515625, -2.4149169921875),
+				["AngleOffset"] = Angle(0, -90, 0),
+				["Size"] = 0.6,
+				["Angles"] = Angle(-63.067108154297, -90.00016784668, 90.000152587891),
+				["ClassName"] = "model",
+				["Bone"] = "right thigh",
+				["Model"] = "models/fallout 3/backpack_1.mdl",
+				["EditorExpand"] = true,
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Model"] = "models/player/barney.mdl",
+				["ClassName"] = "entity",
+				["HideEntity"] = true,
+				["UniqueID"] = "3449293992",
+			},
+		},
+		[8] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 65.675,
+						["Bone"] = "left clavicle",
+						["UniqueID"] = "183179286",
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 51.85,
+						["Bone"] = "left hand",
+						["UniqueID"] = "1320634827",
+						["ClassName"] = "bone",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "1320634827",
+						["Bone"] = "right upperarm",
+						["Size"] = 100,
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "left bicep",
+						["UniqueID"] = "3952326717",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "left ulna",
+						["UniqueID"] = "3952326717",
+						["ClassName"] = "bone",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 51.85,
+						["Bone"] = "right hand",
+						["UniqueID"] = "2201839736",
+						["ClassName"] = "bone",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100.6,
+						["Bone"] = "right forearm",
+						["UniqueID"] = "2420389636",
+						["ClassName"] = "bone",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100.6,
+						["Bone"] = "left forearm",
+						["UniqueID"] = "2201839736",
+						["ClassName"] = "bone",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "left upperarm",
+						["UniqueID"] = "3952326717",
+						["ClassName"] = "bone",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 65.675,
+						["Bone"] = "right clavicle",
+						["UniqueID"] = "2420389636",
+						["ClassName"] = "bone",
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "left shoulder",
+						["UniqueID"] = "3952326717",
+						["ClassName"] = "bone",
+					},
+				},
+				[12] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "right ulna",
+						["UniqueID"] = "1320634827",
+						["ClassName"] = "bone",
+					},
+				},
+				[13] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "right shoulder",
+						["UniqueID"] = "1320634827",
+						["ClassName"] = "bone",
+					},
+				},
+				[14] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "right bicep",
+						["UniqueID"] = "1320634827",
+						["ClassName"] = "bone",
+					},
+				},
+				[15] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "clip",
+						["Position"] = Vector(0.587890625, 0.1923828125, -0.0009765625),
+						["EditorExpand"] = true,
+						["Bone"] = "right upperarm",
+						["Angles"] = Angle(0, 6.9980001449585, -179.99981689453),
+						["UniqueID"] = "2178960773",
+					},
+				},
+				[16] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(90, 0, 0),
+						["ClassName"] = "clip",
+						["UniqueID"] = "3731777426",
+						["Bone"] = "spine 4",
+					},
+				},
+			},
+			["self"] = {
+				["BoneMerge"] = true,
+				["ClassName"] = "model",
+				["UniqueID"] = "837849321",
+				["Model"] = "models/pac/male/base_male.mdl",
+				["Color"] = Vector(89, 79, 60),
+				["Size"] = 0.01,
+				["Brightness"] = 5.4,
+				["Material"] = "https://56.media.tumblr.com/02d9219fea6d5d3546e1ceaaf16dfd92/tumblr_o3l1fhweke1v8luggo2_r1_250.jpg",
+			},
+		},
+		[9] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "367440222",
+				["Position"] = Vector(4.4892578125, -0.063720703125, 0.129150390625),
+				["Material"] = "https://56.media.tumblr.com/4df73afbea8099ccf4543165c8470a8a/tumblr_o3l1fhweke1v8luggo1_540.jpg",
+				["Size"] = 0.925,
+				["AngleOffset"] = Angle(90, 7.5, 0),
+				["Angles"] = Angle(-0, 8.5688467025757, 3.4150947612943e-005),
+				["ClassName"] = "model",
+				["Model"] = "https://www.dropbox.com/s/m6vumoxhxe7htg4/Hat.obj?dl=0",
+				["EditorExpand"] = true,
+			},
+		},
+		[10] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 65.675,
+						["Bone"] = "left clavicle",
+						["UniqueID"] = "183179286",
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "right upperarm",
+						["UniqueID"] = "1320634827",
+						["ClassName"] = "bone",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "right bicep",
+						["UniqueID"] = "1320634827",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 51.85,
+						["Bone"] = "right hand",
+						["UniqueID"] = "2201839736",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "3952326717",
+						["Bone"] = "left bicep",
+						["Size"] = 100,
+						["ClassName"] = "bone",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100.6,
+						["Bone"] = "right forearm",
+						["UniqueID"] = "2420389636",
+						["ClassName"] = "bone",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 51.85,
+						["Bone"] = "left hand",
+						["UniqueID"] = "1320634827",
+						["ClassName"] = "bone",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "left shoulder",
+						["UniqueID"] = "3952326717",
+						["ClassName"] = "bone",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100.6,
+						["Bone"] = "left forearm",
+						["UniqueID"] = "2201839736",
+						["ClassName"] = "bone",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "clip",
+						["Position"] = Vector(2.62890625, 0.36083984375, -0.0013427734375),
+						["Bone"] = "left upperarm",
+						["Angles"] = Angle(1.451415118936e-005, -173.60173034668, -3.585849844967e-005),
+						["UniqueID"] = "2178960773",
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "left ulna",
+						["UniqueID"] = "3952326717",
+						["ClassName"] = "bone",
+					},
+				},
+				[12] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "right ulna",
+						["UniqueID"] = "1320634827",
+						["ClassName"] = "bone",
+					},
+				},
+				[13] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "right shoulder",
+						["UniqueID"] = "1320634827",
+						["ClassName"] = "bone",
+					},
+				},
+				[14] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 100,
+						["Bone"] = "left upperarm",
+						["UniqueID"] = "3952326717",
+						["ClassName"] = "bone",
+					},
+				},
+				[15] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 65.675,
+						["Bone"] = "right clavicle",
+						["UniqueID"] = "2420389636",
+						["ClassName"] = "bone",
+					},
+				},
+				[16] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "clip",
+						["Position"] = Vector(2.62890625, 0.36083984375, -0.0013427734375),
+						["Bone"] = "right upperarm",
+						["Angles"] = Angle(1.451415118936e-005, -173.60173034668, -3.585849844967e-005),
+						["UniqueID"] = "3774043239",
+					},
+				},
+			},
+			["self"] = {
+				["BoneMerge"] = true,
+				["ClassName"] = "model",
+				["UniqueID"] = "837849321",
+				["Model"] = "models/pac/male/base_male.mdl",
+				["Size"] = 0.01,
+				["Brightness"] = 0.5,
+				["Material"] = "models/props_canal/metalwall005b",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3917758671",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

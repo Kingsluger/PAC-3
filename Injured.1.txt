@@ -2,98 +2,6 @@
 	["children"] = {
 		[1] = {
 			["children"] = {
-			},
-			["self"] = {
-				["ClassName"] = "entity",
-				["HideEntity"] = true,
-				["WalkSpeed"] = 60,
-				["SprintSpeed"] = 200,
-				["RunSpeed"] = 100,
-				["UniqueID"] = "3736923309",
-			},
-		},
-		[2] = {
-			["children"] = {
-				[1] = {
-					["children"] = {
-					},
-					["self"] = {
-						["AngleOffset"] = Angle(0, 180, 0),
-						["UniqueID"] = "2583867769",
-						["Position"] = Vector(2.76513671875, -0.000732421875, 4.0634765625),
-						["Size"] = 0.425,
-						["Bone"] = "left thigh",
-						["Model"] = "models/items/personalmedkit/personalmedkit.mdl",
-						["ClassName"] = "model",
-					},
-				},
-			},
-			["self"] = {
-				["BoneMerge"] = true,
-				["ClassName"] = "model",
-				["UniqueID"] = "90149603",
-				["Model"] = "models/haloroleplay/male/officers/male_06.mdl",
-				["EditorExpand"] = true,
-			},
-		},
-		[3] = {
-			["children"] = {
-				[1] = {
-					["children"] = {
-						[1] = {
-							["children"] = {
-							},
-							["self"] = {
-								["Event"] = "is_on_ground",
-								["ClassName"] = "event",
-								["Invert"] = true,
-								["UniqueID"] = "1050526459",
-							},
-						},
-					},
-					["self"] = {
-						["Angles"] = Angle(-22.89999961853, 7.4000000953674, 104.19999694824),
-						["UniqueID"] = "1620507527",
-						["Bone"] = "left forearm",
-						["ClassName"] = "bone",
-						["EditorExpand"] = true,
-					},
-				},
-				[2] = {
-					["children"] = {
-						[1] = {
-							["children"] = {
-							},
-							["self"] = {
-								["Event"] = "is_on_ground",
-								["ClassName"] = "event",
-								["Invert"] = true,
-								["UniqueID"] = "3887333592",
-							},
-						},
-					},
-					["self"] = {
-						["Angles"] = Angle(33.099998474121, 45.599998474121, 46.599998474121),
-						["UniqueID"] = "1194319653",
-						["Bone"] = "right forearm",
-						["ClassName"] = "bone",
-						["EditorExpand"] = true,
-					},
-				},
-			},
-			["self"] = {
-				["Run"] = "run_passive",
-				["ClassName"] = "holdtype",
-				["UniqueID"] = "1217013805",
-				["CrouchWalk"] = "cwalk_passive",
-				["CrouchIdle"] = "cidle_passive",
-				["EditorExpand"] = true,
-				["StandIdle"] = "idle_passive",
-				["Walk"] = "walk_passive",
-			},
-		},
-		[4] = {
-			["children"] = {
 				[1] = {
 					["children"] = {
 						[1] = {
@@ -183,6 +91,178 @@
 				["Bone"] = "",
 				["Model"] = "models/player/barney.mdl",
 				["Material"] = "models/props_halloween/halloween_demoeye_glass",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "entity",
+				["HideEntity"] = true,
+				["WalkSpeed"] = 60,
+				["SprintSpeed"] = 200,
+				["RunSpeed"] = 100,
+				["UniqueID"] = "3736923309",
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(41.973487854004, 9.9909710115753e-005, 0.00017570328782313),
+						["UniqueID"] = "1816595659",
+						["Bone"] = "right forearm",
+						["ClassName"] = "bone",
+						["AngleOffset"] = Angle(-81.800003051758, -19.200000762939, 0),
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(20.299999237061, 11.39999961853, -52),
+						["UniqueID"] = "3135477876",
+						["Bone"] = "left upperarm",
+						["ClassName"] = "bone",
+						["AngleOffset"] = Angle(0, -29, 0),
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-22.299999237061, 11.39999961853, 47.400001525879),
+						["UniqueID"] = "1922688082",
+						["Bone"] = "right upperarm",
+						["ClassName"] = "bone",
+						["AngleOffset"] = Angle(0, -27.39999961853, 0),
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["AngleOffset"] = Angle(0, -22.299999237061, 0),
+						["UniqueID"] = "3135477876",
+						["Angles"] = Angle(41.973487854004, 9.9909710115753e-005, 0.00017570328782313),
+						["Bone"] = "left forearm",
+						["ClassName"] = "bone",
+						["EditorExpand"] = true,
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "clip",
+						["Position"] = Vector(0.0458984375, -3.873046875, -0.1494140625),
+						["Bone"] = "pelvis",
+						["Angles"] = Angle(-2.6211323738098, 91.025871276855, 179.99993896484),
+						["UniqueID"] = "2829536538",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, 9, 0),
+						["Bone"] = "spine 2",
+						["UniqueID"] = "871225419",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["EditorExpand"] = true,
+				["UniqueID"] = "90149603",
+				["Bone"] = "",
+				["Model"] = "models/haloroleplay/male/officers/male_06.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["Position"] = Vector(-0.2763671875, 5.552734375, -7.0810546875),
+						["UniqueID"] = "1194319653",
+						["Bone"] = "right forearm",
+						["Angles"] = Angle(33.099998474121, 45.599998474121, 46.599998474121),
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["Position"] = Vector(-4.67724609375, -0.6103515625, -1.994140625),
+						["UniqueID"] = "1620507527",
+						["Bone"] = "left forearm",
+						["Angles"] = Angle(-22.89999961853, 7.4000000953674, 104.19999694824),
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["Run"] = "run_passive",
+				["ClassName"] = "holdtype",
+				["UniqueID"] = "1217013805",
+				["CrouchWalk"] = "cwalk_passive",
+				["CrouchIdle"] = "cidle_passive",
+				["EditorExpand"] = true,
+				["StandIdle"] = "idle_passive",
+				["Walk"] = "walk_passive",
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["AngleOffset"] = Angle(0, 180, 0),
+						["UniqueID"] = "3511673428",
+						["Position"] = Vector(2.76513671875, -0.000732421875, 4.0634765625),
+						["Size"] = 0.425,
+						["Bone"] = "left thigh",
+						["Model"] = "models/items/personalmedkit/personalmedkit.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "clip",
+						["Position"] = Vector(0.0068359375, -0.8173828125, 10.9755859375),
+						["Bone"] = "pelvis",
+						["Angles"] = Angle(70.166831970215, -88.97428894043, 0.00033971527591348),
+						["UniqueID"] = "1505175333",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(3.3537296985742e-005, -88.974082946777, 9.7330193966627e-005),
+						["ClassName"] = "clip",
+						["UniqueID"] = "2149020411",
+						["Bone"] = "pelvis",
+					},
+				},
+			},
+			["self"] = {
+				["BoneMerge"] = true,
+				["ClassName"] = "model",
+				["UniqueID"] = "2940415617",
+				["Model"] = "models/haloroleplay/male/officers/male_06.mdl",
+				["EditorExpand"] = true,
 			},
 		},
 	},
